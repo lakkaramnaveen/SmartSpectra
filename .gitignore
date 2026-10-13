@@ -1,3 +1,7 @@
 # Swift
 
 **/*.build/
+
+# macOS / Xcode per-user files
+.DS_Store
+xcuserdata/
